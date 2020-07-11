@@ -13,7 +13,7 @@
 
   &nbsp;&nbsp; 🎓 &nbsp; I have a degree in Information Systems;<br>
   &nbsp;&nbsp; 💻 &nbsp; I have worked as an TI support supervisor at Agnus Engenharia & TI since 2016;<br>
-  &nbsp;&nbsp; 🚀 &nbsp; Student in rocketseat (HTML, CSS, JAVASCRIPT, NODE.JS); <br>
+  &nbsp;&nbsp; 🚀 &nbsp; Web developer in training. Student in rocketseat (HTML, CSS, JAVASCRIPT, NODE.JS); <br>
   &nbsp;&nbsp; ⌨️ &nbsp; Knowledge in some languages like ***JAVA***, ***PHP*** and ***PYTHON*** <br>
   &nbsp;&nbsp; ❤️ &nbsp; Passionate about technologies
 
